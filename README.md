@@ -6,7 +6,8 @@ test.py:读取模型，输出预测精度。
 
 以上代码文件需在同目录下放置以下文件  
   
-minist源数据集（包含以下四个文件） 
+minist源数据集（包含以下四个文件）  
+
 t10k-images-idx3-ubyte.gz   
 t10k-labels-idx1-ubyte.gz  
 train-images-idx3-ubyte.gz  
